@@ -14,3 +14,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.launchbar.core 2 0 2019-08-27 19:03:41.756
 !MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-08-27 19:13:59.660
+!MESSAGE Indexed 'Proyectodejemplo' (1 sources, 37 headers) in 2,19 sec: 1.025 declarations; 1.866 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
